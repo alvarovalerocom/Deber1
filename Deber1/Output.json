@@ -1,0 +1,17 @@
+[
+  {
+    "canLandOnWater": false,
+    "name": "Cesna 110",
+    "maxSpeed": 260
+  },
+  {
+    "wheelCount": 0,
+    "name": "Volvo",
+    "maxSpeed": 220
+  },
+  {
+    "hasEngine": false,
+    "name": "Wooden Boat",
+    "maxSpeed": 40
+  }
+]
